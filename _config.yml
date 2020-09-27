@@ -26,19 +26,12 @@ footer:
       value: WhySoSerious12343
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: 
     - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
+      link: 
     - name: RSS
-      link: /feed.xml
+      link: false
 
 # Build settings
 markdown: kramdown
